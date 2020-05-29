@@ -1,0 +1,32 @@
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+footer {
+  background-color:#535752;
+  padding: 25px;
+  color: white;
+  
+}
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: moccasin;
+}
+
+.bodylink {
+    color: black;
+}
+
+.bodylink:hover {
+    color: darkblue;
+}
+
+a {
+    color: black;
+}
